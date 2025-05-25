@@ -1,0 +1,3 @@
+comment = 'Generate and store OpenAI embeddings in-place'
+default_version = '1.0'
+relocatable = true
