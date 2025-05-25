@@ -66,7 +66,7 @@
    ```sql
    INSERT INTO docs (content) VALUES
      ('Hello world'),
-     ('PostgreSQL + OpenAI embeddings');
+     ('PostgreSQL + Embeddings');
    ```
 
 5. **Generate and store embeddings:**
