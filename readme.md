@@ -1,4 +1,4 @@
-# pg_embed: PostgreSQL Extension for HuggingFace Embeddings
+# pg_embed: PostgreSQL Extension for Embeddings Generation
 
 `pg_embed` is a PostgreSQL extension written in PL/Python that enables you to generate and store text embeddings directly in your database using HuggingFace's Inference API. This extension is ideal for adding semantic search, similarity, and AI-powered features to your PostgreSQL-backed applications.
 
